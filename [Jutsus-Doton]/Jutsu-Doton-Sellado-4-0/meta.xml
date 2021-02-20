@@ -1,0 +1,8 @@
+<meta>
+	<info author="Mcnciolas208" version="4.0" type="script" name="Jutsu-sellado" description="Jutsu de sellacion para MTA" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+    	<file src="sello/des_n.txd" />
+    	<file src="sello/montala.col" />
+    	<file src="sello/n_bit_07.dff" />
+</meta>

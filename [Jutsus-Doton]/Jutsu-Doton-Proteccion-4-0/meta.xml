@@ -1,0 +1,6 @@
+<meta>
+	<info author="Mcnciolas208" name="Jutsu Doton Proteccion" version="4.0" type="script" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<file src="sondot.mp3" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<info author="Mcnciolas208" name="Jutsu Doton Doryu Joheki" version="4.0" type="script" />
+	<script src="DotonServerN1.lua" type="server" />
+	<script src="DotonClientN1.lua" type="client"/>
+	<file src="sondot.mp3" />
+	<file src="cuntrock.txd" />
+</meta>
