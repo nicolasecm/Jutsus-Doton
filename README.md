@@ -1,9 +1,9 @@
 # Jutsus Doton
 This repository its to download the diferents Jutsus of the element Doton, the list of this:
 
-- Jutsu Doton Doryu Joheki
-- Jutsu Doton Proteccion
-- Jutsu Doton Sellado
+- Jutsu Doton Doryu Joheki [(Video)](https://www.youtube.com/watch?v=Mp1Lx0zSfh0)
+- Jutsu Doton Proteccion [(Video)](https://www.youtube.com/watch?v=8-aZn8aMc2E)
+- Jutsu Doton Sellado [(Video)](https://www.youtube.com/watch?v=8-aZn8aMc2E)
 
 the implementation of the Chackra System resource is necessary for correct operation [Download Chackra System](https://github.com/nicolasecm/Chackra-System)
 
